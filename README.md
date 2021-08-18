@@ -1,5 +1,11 @@
 # GroupProject_TODOTASKS
-By:Gurpreet Kaur,Navdeep Kaur, Vedant Chokshi,Rahul, Kamna
+By:
+Gurpreet Kaur(C0780760)
+Navdeep Kaur (C0785549)
+Vedant	Chokshi (C0779423)
+Rahul Chhabra (C0744925)
+Kamna Rajput (C0785583)
+
 
 Output:
 Home Screen
